@@ -11,9 +11,6 @@ Your personal AI-powered tutor for smarter, not harder, studying.
 * [Tech Stack](#tech-stack)
 * [Getting Started](#getting-started)
 * [Usage](#usage)
-* [Roadmap](#roadmap)
-* [License](#license)
-* [Contact](#contact)
 
 ***
 
