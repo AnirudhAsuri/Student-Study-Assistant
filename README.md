@@ -1,4 +1,4 @@
-# 🎓 Student Study Assistant
+# Student Study Assistant
 
 Your personal AI-powered tutor for smarter, not harder, studying.
 
